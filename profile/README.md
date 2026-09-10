@@ -7,5 +7,5 @@
 
 <p align="center">
   📞 <a href="https://volkerwessels.service-now.com/esc">Servicedesk</a> ·
-  🔒 <a href="./SECURITY.md">Security policy</a>
+  🔒 <a href="../SECURITY.md">Security policy</a>
 </p>
