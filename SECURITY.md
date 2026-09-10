@@ -4,9 +4,9 @@ Deze policy wordt nog verder uitgewerkt. Tot die tijd geldt onderstaande procedu
 
 ## Kwetsbaarheid melden
 
-**Extern / niet-VolkerWessels** — meld via de Responsible Disclosure-pagina van VolkerWessels ([NL](https://www.volkerwessels.com/nl/responsible_disclosure) · [EN](https://www.volkerwessels.com/en/responsible-disclosure-statement)).
+**Extern / niet-VolkerWessels:** meld via de Responsible Disclosure-pagina van VolkerWessels ([NL](https://www.volkerwessels.com/nl/responsible_disclosure) · [EN](https://www.volkerwessels.com/en/responsible-disclosure-statement)).
 
-**BVGO-ICT-collega's (intern)** — meld via de [servicedesk](https://volkerwessels.service-now.com/esc), categorie beveiliging.
+**BVGO-ICT-collega's (intern):** meld via de [servicedesk](https://volkerwessels.service-now.com/esc), categorie beveiliging.
 
 Meld niet via een publiek GitHub-issue.
 
