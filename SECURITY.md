@@ -4,7 +4,7 @@ Deze policy wordt nog verder uitgewerkt. Tot die tijd geldt onderstaande procedu
 
 ## Kwetsbaarheid melden
 
-**Extern / niet-VolkerWessels:** meld via de Responsible Disclosure-pagina van VolkerWessels ([NL](https://www.volkerwessels.com/nl/responsible_disclosure) · [EN](https://www.volkerwessels.com/en/responsible-disclosure-statement)).
+**Extern / niet-Wessels Stevin:** meld via de [Responsible Disclosure-pagina van Wessels Stevin](https://www.wesselsstevin.nl/nl/responsible-disclosure-policy).
 
 **BVGO-ICT-collega's (intern):** meld via het [BVGO ICT Serviceplein](https://bvgo.topdesk.net) (TOPdesk), categorie beveiliging.
 
