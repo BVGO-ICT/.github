@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="72" alt="Wessels Stevin" />
+  <img src="banner.png" width="100%" alt="Wessels Stevin" />
 </p>
 
 <h1 align="center">Wessels Stevin BVGO ICT</h1>
