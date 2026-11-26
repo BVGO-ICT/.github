@@ -2,7 +2,7 @@
   <img src="logo.png" width="72" alt="Wessels Stevin" />
 </p>
 
-<h1 align="center">Wessels Stevin Bouw &amp; Vastgoedontwikkeling ICT</h1>
+<h1 align="center">Wessels Stevin BVGO ICT</h1>
 <p align="center">GitHub-organisatie voor BVGO - ICT</p>
 
 <p align="center">
